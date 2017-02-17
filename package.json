@@ -1,6 +1,10 @@
 {
   "name": "u235logger",
+<<<<<<< HEAD
   "version": "0.1.1",
+=======
+  "version": "0.1.0",
+>>>>>>> 26b46844c20f4e818de67c306243f84f17e10b17
   "description": "Logger for Redux",
   "main": "lib/index.js",
   "scripts": {
