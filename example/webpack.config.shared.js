@@ -20,7 +20,7 @@ export default {
   resolve: {
     root: path.join(__dirname, `src`),
     alias: {
-      'redux-logger': path.join(__dirname, `..`, `src`),
+      'u235logger': path.join(__dirname, `..`, `src`),
     },
     extensions: [``, `.js`, `.json`, `.jsx`, `.css`, `.svg`],
   },
