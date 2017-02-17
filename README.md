@@ -66,7 +66,7 @@ createLogger(options?: Object) => LoggerMiddleware
   diffPredicate // Filter function for showing states diff.'
 }
 ```
-
+ 
 ### Options
 
 #### __level (String | Function | Object)__
