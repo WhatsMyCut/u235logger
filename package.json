@@ -2,56 +2,56 @@
   "_args": [
     [
       {
-        "raw": "u235logger@git+ssh://git@github.com/WhatsMyCut/u235logger.git",
+        "raw": "u235logger@git+ssh://git@github.com/WhatsMyCut/u235logger.git#8bd555c455259c781c2a74759de80cbd4152f91a",
         "scope": null,
         "escapedName": "u235logger",
         "name": "u235logger",
-        "rawSpec": "git+ssh://git@github.com/WhatsMyCut/u235logger.git",
-        "spec": "git+ssh://git@github.com/WhatsMyCut/u235logger.git",
+        "rawSpec": "git+ssh://git@github.com/WhatsMyCut/u235logger.git#8bd555c455259c781c2a74759de80cbd4152f91a",
+        "spec": "git+ssh://git@github.com/WhatsMyCut/u235logger.git#8bd555c455259c781c2a74759de80cbd4152f91a",
         "type": "hosted",
         "hosted": {
           "type": "github",
-          "ssh": "git@github.com:WhatsMyCut/u235logger.git",
-          "sshUrl": "git+ssh://git@github.com/WhatsMyCut/u235logger.git",
-          "httpsUrl": "git+https://github.com/WhatsMyCut/u235logger.git",
-          "gitUrl": "git://github.com/WhatsMyCut/u235logger.git",
-          "shortcut": "github:WhatsMyCut/u235logger#",
-          "directUrl": "https://raw.githubusercontent.com/WhatsMyCut/u235logger//package.json"
+          "ssh": "git@github.com:WhatsMyCut/u235logger.git#8bd555c455259c781c2a74759de80cbd4152f91a",
+          "sshUrl": "git+ssh://git@github.com/WhatsMyCut/u235logger.git#8bd555c455259c781c2a74759de80cbd4152f91a",
+          "httpsUrl": "git+https://github.com/WhatsMyCut/u235logger.git#8bd555c455259c781c2a74759de80cbd4152f91a",
+          "gitUrl": "git://github.com/WhatsMyCut/u235logger.git#8bd555c455259c781c2a74759de80cbd4152f91a",
+          "shortcut": "github:WhatsMyCut/u235logger#8bd555c455259c781c2a74759de80cbd4152f91a",
+          "directUrl": "https://raw.githubusercontent.com/WhatsMyCut/u235logger/8bd555c455259c781c2a74759de80cbd4152f91a/package.json"
         }
       },
-      "/u235core"
+      "/e2core"
     ]
   ],
-  "_from": "git+ssh://git@github.com/WhatsMyCut/u235logger.git03b175b",
+  "_from": "git+ssh://git@github.com/WhatsMyCut/u235logger.git#80db62f",
   "_id": "u235logger@1.0.0",
   "_inCache": true,
   "_location": "/u235logger",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "u235logger@git+ssh://git@github.com/WhatsMyCut/u235logger.git",
+    "raw": "u235logger@git+ssh://git@github.com/WhatsMyCut/u235logger.git#8bd555c455259c781c2a74759de80cbd4152f91a",
     "scope": null,
     "escapedName": "u235logger",
     "name": "u235logger",
-    "rawSpec": "git+ssh://git@github.com/WhatsMyCut/u235logger.git",
-    "spec": "git+ssh://git@github.com/WhatsMyCut/u235logger.git",
+    "rawSpec": "git+ssh://git@github.com/WhatsMyCut/u235logger.git#8bd555c455259c781c2a74759de80cbd4152f91a",
+    "spec": "git+ssh://git@github.com/WhatsMyCut/u235logger.git#8bd555c455259c781c2a74759de80cbd4152f91a",
     "type": "hosted",
     "hosted": {
       "type": "github",
-      "ssh": "git@github.com:WhatsMyCut/u235logger.git",
-      "sshUrl": "git+ssh://git@github.com/WhatsMyCut/u235logger.git",
-      "httpsUrl": "git+https://github.com/WhatsMyCut/u235logger.git",
-      "gitUrl": "git://github.com/WhatsMyCut/u235logger.git",
-      "shortcut": "github:WhatsMyCut/u235logger",
-      "directUrl": "https://raw.githubusercontent.com/WhatsMyCut/u235logger//package.json"
+      "ssh": "git@github.com:WhatsMyCut/u235logger.git#8bd555c455259c781c2a74759de80cbd4152f91a",
+      "sshUrl": "git+ssh://git@github.com/WhatsMyCut/u235logger.git#8bd555c455259c781c2a74759de80cbd4152f91a",
+      "httpsUrl": "git+https://github.com/WhatsMyCut/u235logger.git#8bd555c455259c781c2a74759de80cbd4152f91a",
+      "gitUrl": "git://github.com/WhatsMyCut/u235logger.git#8bd555c455259c781c2a74759de80cbd4152f91a",
+      "shortcut": "github:WhatsMyCut/u235logger#8bd555c455259c781c2a74759de80cbd4152f91a",
+      "directUrl": "https://raw.githubusercontent.com/WhatsMyCut/u235logger/8bd555c455259c781c2a74759de80cbd4152f91a/package.json"
     }
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "git+ssh://git@github.com/WhatsMyCut/u235logger.git",
+  "_resolved": "git+ssh://git@github.com/WhatsMyCut/u235logger.git#8bd555c455259c781c2a74759de80cbd4152f91a",
   "_shasum": "2c2bd51dd8c4e9c420630b4f8f3385f2565f91a5",
   "_shrinkwrap": null,
-  "_spec": "u235logger@git+ssh://git@github.com/WhatsMyCut/u235logger.git",
+  "_spec": "u235logger@git+ssh://git@github.com/WhatsMyCut/u235logger.git#8bd555c455259c781c2a74759de80cbd4152f91a",
   "_where": "/u235core",
   "author": {
     "name": "Mike Taylor",
@@ -65,12 +65,12 @@
   },
   "description": "A package defining a default logger for services",
   "devDependencies": {},
-  "gitHead": "",
+  "gitHead": "8bd555c455259c781c2a74759de80cbd4152f91a",
   "homepage": "https://github.com/WhatsMyCut/u235logger#readme",
   "main": "index.js",
   "name": "u235logger",
   "optionalDependencies": {},
-  "readme": "# E2 Logger\n\nIf your service needs a logger, this package defines a standard useful format along with a plugin for services that use the Hapi framework. This package uses `winston` as a base logger.\n\n## Raw Usage\n\n```js\nconst { createLogger } = require('u235logger')\nconst logger = createLogger('info')\nlogger.info('Log messages in stdout!')\n```\n\n## Hapi Plugin Usage\n\nWorks in conjunction with the `good` module to log Hapi internal events to CloudWatch\n\n```js\nconst { createLogger, HapiLoggerPlugin } = require('u235logger')\nconst logger = createLogger('debug')\nconst server = new Hapi.Server()\n\nserver.register({\n  register: require('good'),\n  options: {\n    reporters: {\n      console: [new HapiLoggerPlugin(logger)]\n    }\n  }\n})\n```\n",
+  "readme": "# U235 Logger\n\nIf your service needs a logger, this package defines a standard useful format along with a plugin for services that use the Hapi framework. This package uses `winston` as a base logger.\n\n## Raw Usage\n\n```js\nconst { createLogger } = require('u235logger')\nconst logger = createLogger('info')\nlogger.info('Log messages in stdout!')\n```\n\n## Hapi Plugin Usage\n\nWorks in conjunction with the `good` module to log Hapi internal events to CloudWatch\n\n```js\nconst { createLogger, HapiLoggerPlugin } = require('u235logger')\nconst logger = createLogger('debug')\nconst server = new Hapi.Server()\n\nserver.register({\n  register: require('good'),\n  options: {\n    reporters: {\n      console: [new HapiLoggerPlugin(logger)]\n    }\n  }\n})\n```\n",
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
