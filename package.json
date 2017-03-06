@@ -69,6 +69,7 @@
   "homepage": "https://github.com/WhatsMyCut/u235logger#readme",
   "main": "index.js",
   "name": "u235logger",
+  "license": "UNLICENSED",
   "optionalDependencies": {},
   "readme": "# U235 Logger\n\nIf your service needs a logger, this package defines a standard useful format along with a plugin for services that use the Hapi framework. This package uses `winston` as a base logger.\n\n## Raw Usage\n\n```js\nconst { createLogger } = require('u235logger')\nconst logger = createLogger('info')\nlogger.info('Log messages in stdout!')\n```\n\n## Hapi Plugin Usage\n\nWorks in conjunction with the `good` module to log Hapi internal events to CloudWatch\n\n```js\nconst { createLogger, HapiLoggerPlugin } = require('u235logger')\nconst logger = createLogger('debug')\nconst server = new Hapi.Server()\n\nserver.register({\n  register: require('good'),\n  options: {\n    reporters: {\n      console: [new HapiLoggerPlugin(logger)]\n    }\n  }\n})\n```\n",
   "readmeFilename": "README.md",
